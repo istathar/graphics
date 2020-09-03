@@ -14,7 +14,8 @@ dependencies:
   - core-data
   - core-text
   - core-program >= 0.2.4
-  - gtk3
+  - haskell-gi-base
+  - gi-gtk >= 3.0
 
 executables:
   experiment:
